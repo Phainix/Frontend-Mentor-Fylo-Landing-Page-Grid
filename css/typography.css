@@ -1,0 +1,27 @@
+.text-white {
+	color: white;
+}
+.text-center {
+	text-align: center;
+}
+p, h4, h5, h1 {
+    margin: 0;
+}
+h6 {
+    font-size: 110%;
+}
+h5 {
+    font-size: 120%;
+}
+h4 {
+    font-size: 130%;
+}
+h3 {
+    font-size: 150%;
+}
+h2 {
+    font-size: 170%;
+}
+h1 {
+    font-size: 200%;
+}
