@@ -179,7 +179,7 @@ footer {
 footer:before {
 	content: " ";
     position: absolute;
-    top: 0px;
+    top: -1px;
     left: 0;
     right: 0;
     height: 0vw;
